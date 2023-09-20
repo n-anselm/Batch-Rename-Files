@@ -4,8 +4,6 @@
 # Modified: 230911
 # Author: ChatGPT
 
-#!/bin/bash
-
 # Check if the user provided a folder path and a root name
 if [ $# -ne 2 ]; then
     echo "Usage: $0 <folder_path> <root_name>"
